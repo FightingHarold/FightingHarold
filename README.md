@@ -7,7 +7,8 @@
 
 
 # 💫 About Me:
--💡 Passionate About: I have a deep passion for AI, Robotics, and Cybersecurity, and I'm always eager to share that enthusiasm with others and learning something new everyday.  <br>- ⚙️ Tinkerer at Heart: I enjoy exploring both hardware and software, finding joy in the little discoveries along the way.  <br>- 🎮 My Hobbies: In my free time, I love to unwind by playing games, watching Anime, immersing myself in books, and listening to music—activities that inspire and motivate me.  <br>- 🌍 Committed to Purpose: I believe in using my knowledge and skills to make a positive impact on humanity.  <br>- 🤝 Collaborative Spirit: I'm always open to collaborating on interesting projects, as working together often leads to the most rewarding experiences.  <br>- 🏆 Hackathon Aficionado: I find great fulfillment in participating in hackathons, where teamwork makes every challenge more manageable and enjoyable.  <br>- 🎥 Creative Outlet: I also enjoy video and image editing, using creativity as a means of expression. -💭 Philosophy: "Never give up. Each bug is a valuable lesson; every failure is an opportunity for new features to emerge."
+-💡 Passionate About: I have a deep passion for AI, Robotics, and Cybersecurity, and I'm always eager to share that enthusiasm with others and learning something new everyday.  <br>- ⚙️ Tinkerer at Heart: I enjoy exploring both hardware and software, finding joy in the little discoveries along the way.  <br>- 🎮 My Hobbies: In my free time, I love to unwind by playing games, watching Anime, immersing myself in books, and listening to music—activities that inspire and motivate me.  <br>- 🌍 Committed to Purpose: I believe in using my knowledge and skills to make a positive impact on humanity.  <br>- 🤝 Collaborative Spirit: I'm always open to collaborating on interesting projects, as working together often leads to the most rewarding experiences.  <br>- 🏆 Hackathon Aficionado: I find great fulfillment in participating in hackathons, where teamwork makes every challenge more manageable and enjoyable.  <br>- 🎥 Creative Outlet: I also enjoy video and image editing, using creativity as a means of expression. 
+-💭 Philosophy: "Never give up. Each bug is a valuable lesson; every failure is an opportunity for new features to emerge."
 
 
 ## 🌐 Socials:
@@ -25,6 +26,7 @@
 <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/c144ab24-4309-4360-b7f0-f27423f9557a" />
 <img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/6dd6b7eb-71f6-4373-b624-72e8de407835" />
 <img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/9844754b-79be-4fa5-98c8-c85d3437e189" />
+<img width="99" height="28" alt="image" src="https://github.com/user-attachments/assets/fa01f13e-126f-4aa5-9205-604b9aabb6f5" />
 
 
 
