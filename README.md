@@ -3,11 +3,11 @@
 
 
 
-## Hi there 👋
+## Greetings! My name is Abishek, and you may also refer to me as Harold, which is my alias. I look forward to fostering a positive connection. 🌟
 
 
 # 💫 About Me:
-- 💡 Passionate About: I have a deep passion for AI, Robotics, and Cybersecurity, and I'm always eager to share that enthusiasm with others and learning something new everyday.  <br>- ⚙️ Tinkerer at Heart: I enjoy exploring both hardware and software, finding joy in the little discoveries along the way.  <br>- 🎮 My Hobbies: In my free time, I love to unwind by playing games, immersing myself in books, and listening to music—activities that inspire and motivate me.  <br>- 🌍 Committed to Purpose: I believe in using my knowledge and skills to make a positive impact on humanity.  <br>- 🤝 Collaborative Spirit: I'm always open to collaborating on interesting projects, as working together often leads to the most rewarding experiences.  <br>- 🏆 Hackathon Aficionado: I find great fulfillment in participating in hackathons, where teamwork makes every challenge more manageable and enjoyable.  <br>- 🎥 Creative Outlet: I also enjoy video and image editing, using creativity as a means of expression. 
+- 💡 Passionate About: I have a deep passion for AI, Robotics, and Cybersecurity, and I'm always eager to share that enthusiasm with others and learning something new everyday.  <br>- ⚙️ Tinkerer at Heart: I enjoy exploring both hardware and software, finding joy in the little discoveries along the way.  <br>- 🎮 My Hobbies: In my free time, I love to unwind by playing games, watching Anime, immersing myself in books, and listening to music—activities that inspire and motivate me.  <br>- 🌍 Committed to Purpose: I believe in using my knowledge and skills to make a positive impact on humanity.  <br>- 🤝 Collaborative Spirit: I'm always open to collaborating on interesting projects, as working together often leads to the most rewarding experiences.  <br>- 🏆 Hackathon Aficionado: I find great fulfillment in participating in hackathons, where teamwork makes every challenge more manageable and enjoyable.  <br>- 🎥 Creative Outlet: I also enjoy video and image editing, using creativity as a means of expression. 
 
 
 ## 🌐 Socials:
