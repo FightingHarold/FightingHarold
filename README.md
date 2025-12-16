@@ -1,3 +1,8 @@
+
+![git banner](https://github.com/user-attachments/assets/8dafe172-b577-4d8d-afe3-ac6f1c4a12b8)
+
+
+
 ## Hi there 👋
 
 <!--
