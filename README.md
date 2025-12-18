@@ -3,7 +3,7 @@
 
 
 
-## Greetings! Harold here, and you may know me as Abishek. I look forward to fostering a positive connection. 🌟
+## Greetings! Abishek here, and you may know me as Harold my alias. I look forward to fostering a positive connection. 🌟
 
 
 # 💫 About Me:
