@@ -7,17 +7,18 @@
 
 
 # 💫 About Me:
-.animated-text {
-    font-size: 2rem;
-    font-weight: bold;
-    color: #ff00ff;
-    text-shadow: 0 0 10px #ff00ff;
-    animation: glow 1.5384615384615383s ease-in-out infinite;
-}
 
-@keyframes glow {
-    /* Copy the keyframes from the page source */
-}
+💡 Passionate About: I have a deep passion for AI, Robotics, and Cybersecurity, and I'm always eager to share that enthusiasm with others and learning something new everyday.
+- ⚙️ Tinkerer at Heart: I enjoy exploring both hardware and software, finding joy in the little discoveries along the way.
+- 🎮 My Hobbies: In my free time, I love to unwind by playing games, watching Anime, immersing myself in books, and listening to music—activities that inspire and motivate me.
+- 🌍 Committed to Purpose: I believe in using my knowledge and skills to make a positive impact on humanity.
+- 🤝 Collaborative Spirit: I'm always open to collaborating on interesting projects, as working together often leads to the most rewarding experiences.
+- 🏆 Hackathon Aficionado: I find great fulfillment in participating in hackathons, where teamwork makes every challenge more manageable and enjoyable.
+- 🎥 Creative Outlet: I also enjoy video and image editing, using creativity as a means of expression.
+
+💭 Philosophy: "Never give up. Each bug is a valuable lesson; every failure is an opportunity for new features to emerge."
+📖 Learning HTML for portfolio website creation
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1294321331218813032) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Harold.G_6006) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/FIghtingHarold_6006) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HaroldG57960485) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TeamKnight-s3h) 
 
