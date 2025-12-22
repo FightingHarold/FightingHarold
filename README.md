@@ -8,107 +8,17 @@
 
 # 💫 About Me:
 
-<style>
-  .glow-text-block {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    color: #ffffff;
-    line-height: 1.3;
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 20px 24px;
-    border-radius: 12px;
-    background: rgba(0, 0, 0, 0.25);
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.08);
-    transform: scale(1.3);
-    transform-origin: top left;
-    animation: fadeInBlock 1.2s ease-out forwards;
-  }
+💡 Passionate About: I have a deep passion for AI, Robotics, and Cybersecurity, and I'm always eager to share that enthusiasm with others and learning something new everyday.
+⚙️ Tinkerer at Heart: I enjoy exploring both hardware and software, finding joy in the little discoveries along the way.
+🎮 My Hobbies: In my free time, I love to unwind by playing games, watching Anime, immersing myself in books, and listening to music—activities that inspire and motivate me.
+🌍 Committed to Purpose: I believe in using my knowledge and skills to make a positive impact on humanity.
+🤝 Collaborative Spirit: I'm always open to collaborating on interesting projects, as working together often leads to the most rewarding experiences.
+🏆 Hackathon Aficionado: I find great fulfillment in participating in hackathons, where teamwork makes every challenge more manageable and enjoyable.
+🎥 Creative Outlet: I also enjoy video and image editing, using creativity as a means of expression.
+💭 Philosophy: "Never give up. Each bug is a valuable lesson; every failure is an opportunity for new features to emerge." 
 
-  .glow-line {
-    display: block;
-    margin-bottom: 10px;
-    opacity: 0;
-    filter: drop-shadow(0 0 4px rgba(255, 255, 255, 0.8));
-    animation: glowIn 0.9s ease-out forwards;
-  }
+📖 Learning HTML for portfolio website creation
 
-  .glow-line:nth-child(1)  { animation-delay: 0.1s; }
-  .glow-line:nth-child(2)  { animation-delay: 0.3s; }
-  .glow-line:nth-child(3)  { animation-delay: 0.5s; }
-  .glow-line:nth-child(4)  { animation-delay: 0.7s; }
-  .glow-line:nth-child(5)  { animation-delay: 0.9s; }
-  .glow-line:nth-child(6)  { animation-delay: 1.1s; }
-  .glow-line:nth-child(7)  { animation-delay: 1.3s; }
-  .glow-line:nth-child(8)  { animation-delay: 1.5s; }
-
-  .emoji {
-    margin-right: 6px;
-    filter: drop-shadow(0 0 3px rgba(255, 255, 255, 0.7));
-  }
-
-  @keyframes fadeInBlock {
-    from {
-      opacity: 0;
-      transform: scale(1.3) translateY(10px);
-    }
-    to {
-      opacity: 1;
-      transform: scale(1.3) translateY(0);
-    }
-  }
-
-  @keyframes glowIn {
-    0% {
-      opacity: 0;
-      text-shadow: 0 0 0 rgba(255, 255, 255, 0);
-      transform: translateY(6px);
-    }
-    60% {
-      opacity: 1;
-      text-shadow: 0 0 14px rgba(255, 255, 255, 0.9);
-      transform: translateY(0);
-    }
-    100% {
-      opacity: 1;
-      text-shadow: 0 0 6px rgba(255, 255, 255, 0.7);
-    }
-  }
-</style>
-
-<div class="glow-text-block">
-  <span class="glow-line">
-    <span class="emoji">💡</span>
-    Passionate About: I have a deep passion for AI, Robotics, and Cybersecurity, and I'm always eager to share that enthusiasm with others and learning something new everyday.
-  </span>
-  <span class="glow-line">
-    <span class="emoji">⚙️</span>
-    Tinkerer at Heart: I enjoy exploring both hardware and software, finding joy in the little discoveries along the way.
-  </span>
-  <span class="glow-line">
-    <span class="emoji">🎮</span>
-    My Hobbies: In my free time, I love to unwind by playing games, watching Anime, immersing myself in books, and listening to music—activities that inspire and motivate me.
-  </span>
-  <span class="glow-line">
-    <span class="emoji">🌍</span>
-    Committed to Purpose: I believe in using my knowledge and skills to make a positive impact on humanity.
-  </span>
-  <span class="glow-line">
-    <span class="emoji">🤝</span>
-    Collaborative Spirit: I'm always open to collaborating on interesting projects, as working together often leads to the most rewarding experiences.
-  </span>
-  <span class="glow-line">
-    <span class="emoji">🏆</span>
-    Hackathon Aficionado: I find great fulfillment in participating in hackathons, where teamwork makes every challenge more manageable and enjoyable.
-  </span>
-  <span class="glow-line">
-    <span class="emoji">🎥</span>
-    Creative Outlet: I also enjoy video and image editing, using creativity as a means of expression.
-  </span>
-  <span class="glow-line">
-    <span class="emoji">💭</span>
-    Philosophy: "Never give up. Each bug is a valuable lesson; every failure is an opportunity for new features to emerge." 📖 Learning HTML for portfolio website creation
-  </span>
-</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1294321331218813032) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Harold.G_6006) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/FIghtingHarold_6006) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HaroldG57960485) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TeamKnight-s3h) 
