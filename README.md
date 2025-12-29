@@ -31,7 +31,7 @@
 
 💭 Philosophy: "Never give up. Each bug is a valuable lesson; every failure is an opportunity for new features to emerge." 
 
-
+📜 Certifications: Have a Professional Certification from CSC Academy in Python and a Basic and Advanced Certification in App designing at Joget Academy
 
 📖 Learning HTML for portfolio website creation
 
